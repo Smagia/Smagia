@@ -52,10 +52,6 @@ Here are some projects I'm particularly proud of:
    - Technologies used: React
    - [Visit Website](https://mcworkbooks.com/)
 
-### 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smagia&theme=react&show_icons=true)
-
 ### 🌱 Currently Learning
 
 I'm always eager to expand my knowledge. Currently, I'm diving deeper into:
